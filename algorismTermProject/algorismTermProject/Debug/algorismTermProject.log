@@ -1,0 +1,10 @@
+﻿  소스.cpp
+c:\users\윤경식\desktop\제출용 자료구조 텀프로젝트\algorismtermproject\algorismtermproject\소스.cpp(35): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\윤경식\desktop\제출용 자료구조 텀프로젝트\algorismtermproject\algorismtermproject\소스.cpp(273): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\윤경식\desktop\제출용 자료구조 텀프로젝트\algorismtermproject\algorismtermproject\소스.cpp(319): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\윤경식\desktop\제출용 자료구조 텀프로젝트\algorismtermproject\algorismtermproject\소스.cpp(330): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\윤경식\desktop\제출용 자료구조 텀프로젝트\algorismtermproject\algorismtermproject\소스.cpp(340): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\윤경식\desktop\제출용 자료구조 텀프로젝트\algorismtermproject\algorismtermproject\소스.cpp(119): warning C4101: 'docnum' :참조되지 않은 지역 변수입니다.
+c:\users\윤경식\desktop\제출용 자료구조 텀프로젝트\algorismtermproject\algorismtermproject\소스.cpp(148): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  LINK : C:\Users\윤경식\Desktop\제출용 자료구조 텀프로젝트\algorismTermProject\Debug\algorismTermProject.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  algorismTermProject.vcxproj -> C:\Users\윤경식\Desktop\제출용 자료구조 텀프로젝트\algorismTermProject\Debug\algorismTermProject.exe
